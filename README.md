@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil, me chamo Charles ! 
+### <h2>Bem vindo ao meu perfil, me chamo Charles ! </h2>
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shao4EveR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
