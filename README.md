@@ -27,4 +27,3 @@
 - 🌱 Estudando HTML/CSS/JS
 - 📫 Contate-me no email: charles27376@fiec.edu.br
                        
-                      ¯\_(ツ)_/¯
