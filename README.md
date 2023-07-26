@@ -23,7 +23,7 @@
  </div>
 
 
-- 🔭 Trabalhando atualmente como Auxiliar de informática
+- 🔭 Ex Auxiliar de informática (Atacadão)
 - 🌱 Estudando HTML/CSS/JS
 - 📫 Contate-me no email: charles27376@fiec.edu.br
                        
